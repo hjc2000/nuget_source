@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>WindowComponents</id>
+    <version>1.0.15</version>
+    <authors>hjc</authors>
+    <projectUrl>https://github.com/hjc2000/window_component</projectUrl>
+    <description>Package Description</description>
+    <repository url="https://github.com/hjc2000/window_component" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="6.0.15" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
